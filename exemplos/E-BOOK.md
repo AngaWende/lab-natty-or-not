@@ -1,20 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# A Jornada da IA: Simulador de prova 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este projeto simula a criação de uma prova 
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** 
+- Ferramenta **Libre Office** para visualização.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para para criar um prova estilo concurso público ou vestibual, com base nas informações contidas no edital. e em seguida criar uma tablela com respostas do examinado, corretas, descrição e resposta por extenso em formato de planilha.
+
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O simulado gerado contém perguntas bem simples, com formulação básica e alguns erros e questões com mais de uma resposta correta, principalmente em questões sobre Língua Portuguesa. Também houve divergência na quantidade de questôes propostas e depois na resposta gerada.
 
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Mesmo sem nenhum exemplo prévio, a IA foi capaz de gerar um simulado bem parecido com uma prova real. Logicamente, não podemos confiar 100% nas respostar, mas com o treinamento adequado acredito que seja de grande ajuda para estudantes.
