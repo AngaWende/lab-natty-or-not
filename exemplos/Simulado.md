@@ -1,5 +1,5 @@
 
-# A Jornada da IA: Simulador de prova 🌌
+# Simulador de prova 🌌
 
 ## 📒 Descrição
 Este projeto simula a criação de uma prova 
