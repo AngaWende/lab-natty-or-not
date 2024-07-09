@@ -1,20 +1,23 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Criação de imagens pro prompt.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+- IA Generativa **[Dall-e](https://designer.microsoft.com/image-creator)** para criação de imagens;
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Utilizado o Dall-e via microsofft image creator para criação de um personagem que existe somente em livro. Usado a aparência descrita no livro como prompt.
+
+
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+A IA mostra como resposta algo sempre semelhante ao que foi solicitado, mas em relação a alguns aspectos, foi muito mais complicado de achar um texto exato para que ele respondesse da forma adequada. As fotos a seguir são as que mais chegaram perto do objetivo final, e o video abaixo mostra a quantidade de descrições dadas para chegar no resultado final.
 
-[LINK PARA O VÍDEO AQUI]()
+![wolf](https://github.com/AngaWende/lab-natty-or-not/assets/106128009/4721d853-27ca-4297-9ecb-741720b0828a)
+![wolf2](https://github.com/AngaWende/lab-natty-or-not/assets/106128009/6c4c3cbb-f578-433a-8dc3-727b915ce898)
 
-## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+
+[LINK PARA O VÍDEO AQUI](https://drive.google.com/file/d/1U34VvEUP95IlKoS3Tq3Ye91CwbX8NUX-/view?usp=drive_link)
+
+
+
